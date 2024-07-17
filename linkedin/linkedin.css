@@ -1,0 +1,199 @@
+
+
+
+
+.img{
+    display: flex;
+    width: 102px;
+    height: 26px;
+    margin-top:50px ;
+    margin-left: 190px;
+    
+}
+.a{
+display: flex;
+font-size: 17px;
+list-style-type: none;
+
+width: 614px;
+position: relative;
+left: 360px;
+bottom: 1px;
+
+}
+.vl {
+    border-left: 2px solid rgb(104, 108, 104);
+    height: 56px;
+    position: absolute;
+    left: 70%;
+    top: 48px;
+  }
+  .buttona{
+    border: none;
+    border-radius: 30px;
+    justify-content: center;
+    padding: 15px;
+    position:relative;
+    margin-left: 20px;
+    bottom:19px;
+    background-color:white;
+    }
+.buttona:hover{
+    background-color: black;
+    color: aliceblue;
+}
+
+ .buttonb{
+    
+    
+    border-radius: 30px;
+    justify-content: center;
+    padding: 15px;
+    position:relative;
+    margin-left: 5px;
+    bottom:19px;
+    color: rgb(133, 198, 244);
+    border-color: rgb(133, 198, 244);
+    background-color: white;
+}
+.buttonb:hover{
+    background-color:whitesmoke ;
+    color: black;
+}
+.discover img{
+    width: 23px;
+    height: 24px;
+    position: relative;
+    bottom:133px;
+    left: 30.5%
+}
+.peeps img{
+    width:60px;
+    height: 28px;
+    position: relative;
+    bottom:213px;
+    left: 40.5%;
+}
+.learning img{
+    width:50px;
+    height: 28px;
+    position: relative;
+    bottom:286px;
+    left: 57.5%;
+}
+.jobs img{
+    width:30px;
+    height: 20px;
+    position: relative;
+    bottom:358px;
+    left: 71%;
+}
+.head1{
+    position: relative;
+    left:12.3%;
+    bottom:265px;
+    color: saddlebrown;
+}
+.head2{
+    position: relative;
+    left:12.3%;
+    bottom:317px;
+    color: saddlebrown;
+    
+}
+}h1{
+    text-align: center;
+    color: saddlebrown;
+    position: relative;
+    bottom: -60px;
+    
+} .h11{
+    position: relative;
+    bottom: -20px;
+    left: 48px;
+
+} .form{
+
+    position: relative;
+    left: 187px;
+    bottom: 320px;
+}.button button{
+
+width: 200px;
+height: 30px;
+border-radius: 20px;
+background-color: rgb(32, 113, 253);
+color: aliceblue;
+position: relative;
+bottom: 30px;
+border: 0px;
+
+}.Google button{
+  width: 200px;
+  height: 30px;
+  border-radius:20px ;
+  background-color: rgb(255, 255, 255);
+  position: relative;
+  bottom: 30px;
+
+}.Google button img{
+
+    width: 15px;
+    position: relative;
+    left: -3px;
+    top: 2px;
+}.photo img{
+   width: 800px;
+ 
+    position: relative;
+    left: 450px;
+    bottom: 530px;
+
+ }.or-line img{
+
+    width: 80px;
+    position: relative;
+    top: 10px; 
+    
+    
+  
+}.show{
+
+    position: relative;
+    bottom: 36px;
+    left: 130px;
+    color:rgb(6, 140, 243);
+
+}.for a{
+
+    color: rgb(6, 140, 243);
+    position: relative;
+    bottom: 40px;
+    
+}.or-line {
+position: relative;
+top: -30px;
+left: 86px;
+
+}.pass{
+
+    position: relative;
+    top: 20px;
+    font-size: 15px;
+}.mail {
+
+    position: relative;
+    top: 25px;
+}.email{
+    position: relative;
+    top: 40px;
+    font-size: 15px;
+}.sign  :hover{
+
+    background-color: rgb(229, 235, 240);
+}.Google :hover{
+
+    background-color: rgb(201, 205, 208);
+}.button :hover{
+    background-color: rgb(80, 164, 238);
+}
